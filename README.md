@@ -43,11 +43,7 @@ Bu dosya, hava durumu uygulamanızın işlevselliğini sağlar. Kullanıcıdan a
 
 
 # Kullanılan araçlar
-1.HTML
-2.CSS
-3.JAVASCRİPT
-4.Visual Studio Code
-5.API key ve url için kullanılan bağlantı :https://openweathermap.org/city/2643743
+API key ve url için kullanılan bağlantı :https://openweathermap.org/city/2643743
 
 
 
