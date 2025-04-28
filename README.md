@@ -41,6 +41,8 @@ Bu dosya, hava durumu uygulamanızın işlevselliğini sağlar. Kullanıcıdan a
 2. Kullanıcı bir şehir ismi girer ve hava durumu bilgilerini almak için butona tıklar.
 3. Uygulama, şehir adıyla ilgili hava durumu bilgilerini API'den alır ve ekranda gösterir.
 
+4. 
+
 
 # Kullanılan araçlar
 API key ve url için kullanılan bağlantı :https://openweathermap.org/city/2643743
