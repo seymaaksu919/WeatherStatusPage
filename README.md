@@ -1,7 +1,7 @@
 # WeatherStatusPage
 Bu proje, kullanıcıların girdikleri şehir isimlerine göre gerçek zamanlı hava durumu bilgilerini alıp görüntüleyen bir web uygulamasıdır. Kullanıcı, uygulama üzerinden bir şehir adı girerek anlık hava durumu verilerini görüntüleyebilir. Uygulama, OpenWeather API'sini kullanarak hava durumu verilerini alır ve kullanıcılara sıcaklık, hava durumu durumu gibi bilgileri sunar. Ayrıca, hata durumlarında kullanıcıya anlamlı hata mesajları gösterilir.
 
-# HTML kısmı için :
+# HTML kısmı için 
 Bu dosya da kullanıcıdan şehir ismi alır ve hava durumu verilerini görüntülemek için API'ye istek gönderir.
 
 ### İçerik:
@@ -14,7 +14,7 @@ Bu dosya da kullanıcıdan şehir ismi alır ve hava durumu verilerini görünt�
 2. Şehir ismi girin ve hava durumu verilerini almak için butona tıklayın.
 
 
-# CSS kısmı için :
+# CSS kısmı için 
 Bu dosya, hava durumu uygulamanızın stilini belirler. Kullanıcı arayüzüne çekicilik katmak için temel stil özellikleri ve düzen kullanılır.
 
 ### İçerik:
@@ -27,7 +27,7 @@ Bu dosya, hava durumu uygulamanızın stilini belirler. Kullanıcı arayüzüne 
 CSS dosyası, HTML dosyasına bağlanarak sayfanın stilini belirler. Bu dosya yalnızca görsel düzeni etkiler ve JavaScript ile etkileşimde bulunmaz.
 
 
-# JavaScript kısmı için :
+# JavaScript kısmı için 
 Bu dosya, hava durumu uygulamanızın işlevselliğini sağlar. Kullanıcıdan alınan şehir ismini OpenWeather API'ye göndererek hava durumu verilerini alır ve ekranda görüntüler.
 
 ### İçerik:
@@ -43,11 +43,11 @@ Bu dosya, hava durumu uygulamanızın işlevselliğini sağlar. Kullanıcıdan a
 
 
 # Kullanılan araçlar
-HTML
-CSS
-JAVASCRİPT
-Visual Studio Code
-API key ve url için kullanılan bağlantı :https://openweathermap.org/city/2643743
+1.HTML
+2.CSS
+3.JAVASCRİPT
+4.Visual Studio Code
+5.API key ve url için kullanılan bağlantı :https://openweathermap.org/city/2643743
 
 
 
